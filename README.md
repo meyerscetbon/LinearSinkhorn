@@ -6,9 +6,10 @@ Code of the paper by Meyer Scetbon and Marco Cuturi
 We present the time-accuracy tradeoff between different methods to compute the regularized OT when the samples live on the unit sphere.
 ![figure](plot_accuracy_ROT_sphere.jpg)
 
-The implementation of the recursive Nystrom is adapted from the MATLAB implementation (https://github.com/cnmusco/recursive-nystrom)
+The implementation of the recursive Nystrom is adapted from the MATLAB implementation (https://github.com/cnmusco/recursive-nystrom).
 
 ## Generative Adversarial Network
+
 We show some visual results of the generative model learned using our method on CIFAR10 (left) and CelebA (right). 
 
 <p float="left">
