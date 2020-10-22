@@ -3,6 +3,8 @@ Code of the paper by Meyer Scetbon and Marco Cuturi
 
 ## Approximation of the Regularized Optimal Transport in Linear Time
 
+We present the time-accuracy tradeoff between different methods to compute the regularized OT when the samples live on the unit sphere.
+![figure](plot_accuracy_ROT_sphere.jpg)
 
 The implementation of the recursive Nystrom is adapted from the MATLAB implementation (https://github.com/cnmusco/recursive-nystrom)
 
