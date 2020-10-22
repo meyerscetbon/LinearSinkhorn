@@ -221,7 +221,7 @@ def Nys_Sinkhorn(A, V, a, b, delta=1e-9, max_iter=1e3, lam=1e-100):
 
 
 # Nystrom Sinkhorn: Square Euclidean Distance
-def Nys_Sinkhorn_RBF_inv(
+def Nys_Sinkhorn_RBF(
     X, Y, reg, a, b, rank, seed=49, delta=1e-9, num_iter=50, lam=1e-100
 ):
     start = time.time()
