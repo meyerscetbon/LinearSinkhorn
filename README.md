@@ -13,8 +13,8 @@ The implementation of the WGAN is a code adapted from the MMD-GAN implementation
 We show some visual results of the generative model learned using our method on CIFAR10 (left) and CelebA (right). 
 
 <p float="left">
-  <img src="/cifar10_samples.png" width="100" />
-  <img src="/celebA_samples.png" width="100" /> 
+  <img src="/cifar10_samples.png" width="500" />
+  <img src="/celebA_samples.png" width="500" /> 
 </p>
 
 
