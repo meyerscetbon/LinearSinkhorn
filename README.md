@@ -10,4 +10,4 @@ The implementation of the WGAN is a code adapted from the MMD-GAN implementation
 
 
 
-This repository contains a Python implementation of the model presented in the [paper](https://arxiv.org/pdf/2006.07057.pdf).
+This repository contains a Python implementation of the algorithms presented in the [paper](https://arxiv.org/pdf/2006.07057.pdf).
