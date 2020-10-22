@@ -8,7 +8,7 @@ In this work, we show that one can approximate the regularized optimal transport
 The implementation of the recursive Nystrom is adapted from the MATLAB implementation (https://github.com/cnmusco/recursive-nystrom).
 
 ## Generative Adversarial Network
-We also show that our method offers a constructive way to build a kernel and then a cost function adapted to the problem in order to compare distributions using optimal transport. We show some visual results of the generative model learned using our method on CIFAR10 (left) and CelebA (right). 
+We also show that our method offers a constructive way to build a kernel and then a cost function adapted to the problem in order to compare distributions using optimal transport. We show some visual results of the generative models learned using our method on CIFAR10 (left) and CelebA (right). 
 
 <p float="left">
   <img src="/cifar10_samples.png" width="500" />
