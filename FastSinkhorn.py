@@ -11,7 +11,6 @@ def compute_ROT(u, v, a, b, reg):
 
 ################ Classical Sinkhorn Algorithm ####################
 
-
 def Sinkhorn(C, reg, a, b, delta=1e-9, lam=1e-6):
 
     K = np.exp(-C / reg)
